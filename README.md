@@ -1,6 +1,6 @@
 <h1 align="center"> <b>Hi, I am Milanka Tharangana...</b></h1>
 
-<h4>Hi!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm a IT Undergraduate.</h4>
+<h4>Hi!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h4>
 
 - 🔭 I’m an IT undergraduate at University of Moratuwa.
 - 👯 I’m looking for software Engineering intern position.
