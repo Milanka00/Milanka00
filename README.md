@@ -13,15 +13,15 @@
   Connect with me: 
   <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width=30pcx>
   <p align="left">
-  &#8226;
+
   <a href="linkedin.com/in/milanka-tharangana-aa6045220" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Milanka" height="30" width="30" /></a>
-  &#8226;
+
 <!--   <a href="https://stackoverflow.com/users/20077961/amal-shalinda" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="ashan" height="30" width="30" /></a>
   &#8226;
   <a href="https://www.facebook.com/amal.shalinda.73" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png"  height="30" width="30" /></a>
   &#8226;
   <a href="https://www.hackerrank.com/amalshalinda1999" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  height="30" width="30" /></a> -->
-  &#8226;
+
    <h3>Language and Tools:</h3>
   </p>
   <p align="center">
