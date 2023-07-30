@@ -43,3 +43,12 @@
   <img  alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
   <img  alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
   <img  alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Milanka00&label=Profile%20views&color=0e75b6&style=flat" alt="Milanka00" /> </p>
+ 
+<p  align="left" width="400"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Milanka00&show_icons=true&theme=radical&layout=compact" alt="Milanka00" /></p>
+
+<p align="left" width="400">&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Milanka00&show_icons=true&theme=radical" alt="Milanka00" /></p>
+
+<p align="left" width="400"><img src="https://github-readme-stats.vercel.app/api?username=Milanka00&show_icons=true&theme=radical" alt="Milanka00" /></p>
