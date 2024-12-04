@@ -1,54 +1,70 @@
-<h1 align="center"> <b>Hi, I am Milanka Tharangana...</b></h1>
 
-<h4>Hi!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h4>
+<p align = "center">
+  Hi, I’m Milanka .   .    .
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." 
+       src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png" 
+       width="50" height="50">
+</picture>
+</p>
 
-- 🔭 I’m an IT undergraduate at University of Moratuwa.
-- 👯 I’m looking for software Engineering intern position.
-- 🤔 All of my projects are available at https://github.com/Milanka00
-- 📫 How to reach me: milankatharangana01@gmail.com | tharanganam@gmail.com
-  <p align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Passionate%2C+Enthusiastic+and+Skilled+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Responsible+Student+and+Quick+Learner"></a>
-  </p>
-  Connect with me: 
-  <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width=30pcx>
-  <p align="left">
+<p align="center">
+  <!-- GitHub Readme Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-stats.vercel.app/api?username=Milanka00&theme=dark&hide_border=true&include_all_commits=false&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Milanka00&theme=default&hide_border=true&include_all_commits=false&count_private=true" 
+         alt="GitHub Readme Stats" width="390" />
+  </picture>
 
-  <a href="linkedin.com/in/milanka-tharangana-aa6045220" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Milanka" height="30" width="30" /></a>
-
-<!--   <a href="https://stackoverflow.com/users/20077961/amal-shalinda" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="ashan" height="30" width="30" /></a>
-  &#8226;
-  <a href="https://www.facebook.com/amal.shalinda.73" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png"  height="30" width="30" /></a>
-  &#8226;
-  <a href="https://www.hackerrank.com/amalshalinda1999" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  height="30" width="30" /></a> -->
-
-   <h3>Language and Tools:</h3>
-  </p>
-  <p align="center">
-  <img  alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img  alt="Visual Studio" width="50px" src="https://cdn-icons-png.flaticon.com/512/906/906324.png" />
-  <img  alt="Intellij" width="50px" src="https://camo.githubusercontent.com/9db6f827ce993e7f7c656eb9e2bc88164b327bacfc0d6a3bb7952803f3715e06/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f696e74656c6c696a2d696465612e706e67" />
-<!--   <img  alt="Pycharm" width="50px" src="https://camo.githubusercontent.com/cb5ba8d29ac69b68b55c218f7a0c8367e2bb035cfc7d6a40267685c7035cd9d8/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f7079636861726d2e706e67" /> -->
-  <img  alt="Clion" src="https://e7.pngegg.com/pngimages/458/617/png-clipart-clion-jetbrains-intellij-idea-c-macos-linux-angle-text-thumbnail.png" width=50px height=50px/>
-  <img  alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-  <img  alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-  <img  alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img  alt="java"  width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-<!--   <img alt="c#" width="50px" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png"/>
-  <img alt="c" width="50px" src="https://img.pngio.com/letter-c-icon-free-download-as-png-and-ico-icon-easy-c-blue-png-256_256.png"/> -->
-  <img  alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<!--   <img  alt="AngularJS" width="50px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" /> -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="50px" />
-<!--   <img  alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /> -->
-  <img  alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  <img  alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  <img  alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img  alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <!-- GitHub Streak Stats -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://github-readme-streak-stats.herokuapp.com?user=Milanka00&theme=dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Milanka00&theme=default&hide_border=true" 
+         alt="GitHub Streak Stats" width="430" />
+  </picture>
+</p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Milanka00&label=Profile%20views&color=0e75b6&style=flat" alt="Milanka00" /> </p>
- 
-<p  align="left" width="400"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Milanka00&show_icons=true&theme=radical&layout=compact" alt="Milanka00" /></p>
+<p align = "center">
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=thiunuwan&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width = 290> -->
+   
+<span>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Milanka00&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Milanka00&theme=default" 
+         alt="Most Commit Language Card" width="270" />
+  </picture>
+</span>
 
-<p align="left" width="400">&nbsp;<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Milanka00&show_icons=true&theme=radical" alt="Milanka00" /></p>
 
-<p align="left" width="400"><img src="https://github-readme-stats.vercel.app/api?username=Milanka00&show_icons=true&theme=radical" alt="Milanka00" /></p>
+   <!-- <span>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thiunuwan&theme=dark" width=270>
+  </span> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+          srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Milanka00&theme=dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Milanka00&theme=default" 
+       alt="GitHub Profile Details" width="555" />
+</picture>
+
+
+ <!-- <a href="https://holopin.io/@thiunuwan">
+  <img src="https://holopin.me/thiunuwan" alt="An image of @thiunuwan's Holopin badges" style="width:826px;">
+</a> -->
+
+
+</p>
+
+
+   <!--  [![An image of @thiunuwan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/thiunuwan)](https://holopin.io/@thiunuwan) -->
+
+
+   <!-- <img src="https://github-readme-stats.vercel.app/api?username=thiunuwan&theme=dark&hide_border=true&include_all_commits=false&count_private=true&bg_color=1E90FF" width="390">
+
+
+   <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=thiunuwan&theme=dark&hide_border=true&background=1E90FF" width="430">
